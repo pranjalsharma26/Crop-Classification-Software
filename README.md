@@ -4,7 +4,7 @@ Transfer learning focuses on storing knowledge gained while solving one problem 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-NOTE- Before we start, I would like to tell you that the code is available as a google drive link due to ambiguity while uplaoding file size more than 25MB. For that, please visit the workspace folder!
+NOTE- Before we start, I would like to tell you that the code is available as a google drive link due to ambiguity while uplaoding file size more than 25MB. For that, please visit the workspace folder! Also, you may have conflict while using Tensorflow version 2.0. So it is advisable to downgrade before using the repository.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -51,6 +51,11 @@ NOTE- LabelImg is freely available on github. Click on the link https://github.c
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+# Data Information
+
+Data is splitted into train, test and valid directoreis and sample of annotation and data is available in those directories.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Process to start the workflow
 
 ### 1. Conversion
